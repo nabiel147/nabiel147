@@ -13,23 +13,6 @@ I'm passionate about blockchain technology and building decentralized applicatio
 ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🔥 Current Projects
-
-#### 🤖 Farlegacy NFT Claim Bot
-A sophisticated Node.js bot for automated NFT claiming on the Base network. Features include:
-
-- **Multi-wallet Support**: Handle multiple wallets simultaneously
-- **Gas Optimization**: Dynamic gas price calculation for cost efficiency
-- **Scheduled Execution**: Automated claiming at 8-hour intervals
-- **Error Handling**: Robust error handling and transaction monitoring
-- **Base Network Integration**: Optimized for Base mainnet
-
-```javascript
-// Example usage
-const { executeFarlegacyClaim } = require('./claim-transaction.js');
-await executeFarlegacyClaim(privateKey);
-```
-
 ### 📊 GitHub Stats
 
 ![Nabiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabiel147&show_icons=true&theme=radical)
@@ -52,9 +35,9 @@ await executeFarlegacyClaim(privateKey);
 
 ### 📫 Get In Touch
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nabiel147)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nabiel147)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nabiel147@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nabieltajraihan)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mobilefarm50)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nabieltajraihan@gmail.com)
 
 ### 🎯 Current Goals
 
